@@ -41,6 +41,7 @@ export const homeAbout = [
       title: "COURSES",
     },
   ]
+  // COURSE CARD DATAS
   export const coursesCard = [
     {
       id: 1,
@@ -179,7 +180,7 @@ export const homeAbout = [
     {
       cover: "./images/courses/online/o2.png",
       hoverCover: "./images/courses/online/o2.1.png",
-      courseName: "Art & Design",
+      courseName: "Art & Design Courses",
       course: "25 Courses",
     },
     {

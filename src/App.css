@@ -157,4 +157,12 @@ p {
     padding-top: 50%;
     height: 80vh;
   }
+  .margin{
+    margin-top: 85%;
+  }
+  #heading h1 {
+    font-size: 29px;
+    margin: 30px 0;
+    text-transform: capitalize;
+  }
 }
