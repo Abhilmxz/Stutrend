@@ -3,6 +3,8 @@ import Hero from './hero/Hero';
 import HAbout from './HAbout';
 import AboutCard from '../about/AboutCard';
 import Test from './testimonal/Test';
+import Hblog from './Hblog';
+import Hprice from './Hprice';
 
 const Home = () => {
   return (
@@ -11,6 +13,8 @@ const Home = () => {
       <AboutCard />
       <HAbout />
       <Test/>
+      <Hblog/>
+      <Hprice/>
     </div>
   )
 };
