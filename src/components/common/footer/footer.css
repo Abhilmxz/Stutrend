@@ -44,12 +44,16 @@
 
   /* RESPONSIVE SCREEN VALUES */
 
-
-
   @media screen and (max-width: 768px) {
     footer .container {
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: min-content;
     }
+  }
+  .newletter h1{
+    font-size: 12px;
+  }
+  .newletter .right, .newletter .left{
+    padding-right: 10px;
   }
   footer .logo span {
     color: #ffe600;
