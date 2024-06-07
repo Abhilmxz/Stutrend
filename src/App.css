@@ -115,6 +115,11 @@ p {
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 30px;
 }
+.grid4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 30px;
+}
 .flex {
   display: flex;
 }
@@ -153,6 +158,9 @@ p {
   }
   .grid{
     grid-template-columns: repeat(2, 1fr);
+  }
+  .grid4{
+    grid-template-columns: repeat(1, 1fr);
   }
   .back {
     background-position: center;
