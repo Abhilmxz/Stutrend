@@ -18,6 +18,9 @@ export const homeAbout = [
       desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     },
   ]
+
+  
+  // ABOUT AWRAPPER DATAS
   export const awrapper = [
     {
       cover: "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
@@ -41,6 +44,8 @@ export const homeAbout = [
       title: "COURSES",
     },
   ]
+
+
   // COURSE CARD DATAS
   export const coursesCard = [
     {
@@ -170,6 +175,9 @@ export const homeAbout = [
       pricePer: "$3 per month",
     },
   ]
+
+
+  // OUR ACADAMY ONLINE COURSES
   export const online = [
     {
       cover: "./images/courses/online/o1.png",
@@ -244,6 +252,10 @@ export const homeAbout = [
       course: "17 Courses",
     },
   ]
+
+
+
+  // OUR TEACHERS AND INTERNS
   export const team = [
     {
       cover: "./images/team/t1.webp",
@@ -286,6 +298,9 @@ export const homeAbout = [
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
   ]
+
+
+  // COURSE FEE AND PLANS
   export const price = [
     {
       name: "BASIC PLAN",
@@ -308,6 +323,9 @@ export const homeAbout = [
       desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     },
   ]
+
+
+  // FREEQUENTLY ASKED QUSESTIONS
   export const faq = [
     {
       title: "How to Enroll This Online Courses?",
@@ -334,6 +352,9 @@ export const homeAbout = [
       desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
     },
   ]
+
+
+  // BLOG CONTANTS
   export const blog = [
     {
       id: 1,
@@ -390,6 +411,10 @@ export const homeAbout = [
       cover: "../images/blog/b6.webp",
     },
   ]
+
+
+
+  // WHAT OUR STUDENTS SAYING ABOIUT
   export const testimonal = [
     {
       id: 1,
